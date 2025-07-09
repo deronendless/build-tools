@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../src/math.js", "../src/index.js"],
+  "sourcesContent": ["export function add(a, b) {\n  return a + b;\n}\n", "import { add } from \"./math.js\";\n\nconsole.log(\"1 + 2 =\", add(1, 2));\n"],
+  "mappings": ";;;;;;;;;;AAAO,WAAS,IAAI,GAAG,GAAG;AACxB,WAAO,IAAI;AAAA,EACb;AAFA;AAAA;AAAA;AAAA;;;ACAA;AAAA;AAAA;AAEA,cAAQ,IAAI,WAAW,IAAI,GAAG,CAAC,CAAC;AAAA;AAAA;",
+  "names": []
+}
